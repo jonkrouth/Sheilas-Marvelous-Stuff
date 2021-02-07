@@ -12,7 +12,7 @@
             <b>Sheila Staubus</b>
         </div>
         <div>
-            <a href="mailto:sheilasmarvelousstuff@gmail.com" target="_top">sheila@sheilasmarvelousstuff.com</a>
+            <a href="mailto:sheilasmarvelousstuff@gmail.com" target="_top">sheilasmarvelousstuff@gmail.com</a>
         </div>
         <div>
             218-724-0552
