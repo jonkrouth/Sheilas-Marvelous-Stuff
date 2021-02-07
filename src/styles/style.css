@@ -1,6 +1,6 @@
 ﻿.navbar-text {
     color: #4b7bbd; 
-    font-size:200%;
+    font-size:150%;
 }
 
 .navbar-collapse {
@@ -21,8 +21,12 @@ hr {
     float: none;
     display: inline-block;
 }
+
+body {
+    font-family: 'Cardo', serif;
+
+}
 .body {
-    font-family: 'Josefin Sans', sans-serif;
     font-size: 125%;
     padding-left: 10%;
     padding-right: 10%;
@@ -56,14 +60,6 @@ hr {
 	text-align:center;
 }
 
-.signature {
-	color: #4b7bbd; 
-    font-size:150%;
-	text-align:center;
-	font-family: 'Great Vibes', cursive;
-	margin-bottom: 20px;
-}
-
 .calendar {
 	text-align:center;
 }
@@ -74,6 +70,10 @@ hr {
 
 .event-name {
 	color: #4b7bbd; 
-    font-size:180%;
+    font-size:150%;
+}
+
+.cursive {
 	font-family: 'Great Vibes', cursive;
+    font-size: 175%;
 }

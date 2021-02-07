@@ -12,9 +12,9 @@
 
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
-    <link href='https://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Josefin+Sans' rel='stylesheet' type='text/css'>
-	
+    <link rel="preconnect" href="https://fonts.gstatic.com"> 
+    <link href="https://fonts.googleapis.com/css2?family=Cardo&family=Great+Vibes&display=swap" rel="stylesheet">
+
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
 	
@@ -29,12 +29,15 @@
 
 <body>
             
-<div class="container" style="font-family: 'Great Vibes', cursive;">
+<div class="container">
     <div>
         <div class="row">
             <div class="inner cover" style="text-align:center;">
-                <h1>Sheila's Marvelous Stuff</h1>
-                <h3 style="color: #4b7bbd;">Unique Handcrafted Artwork</h3>
+                <h1>
+                    <span class="cursive">S</span>heila's 
+                    <span class="cursive">M</span>arvelous 
+                    <span class="cursive">S</span>tuff</h1>
+                <h4 style="color: #4b7bbd;">Unique Handcrafted Artwork</h4>
             </div>
         </div>
         
@@ -50,12 +53,12 @@
             <ul class="nav navbar-nav navbar-text">
                 <li>
                     <a href="index.php">
-                        Home
+                        <span class="cursive">H</span>ome
                     </a>
                 </li>
                 <li>
                     <a href="gallery.php">
-                        Gallery
+                        <span class="cursive">G</span>allery
                     </a>
                 </li>
                 <!-- <li>
@@ -65,12 +68,12 @@
                 </li> -->
                 <li>
                     <a href="orders.php">
-                        Orders
+                        <span class="cursive">O</span>rders
                     </a>
                 </li>
                 <li>
                     <a href="contact.php">
-                        About Me
+                        <span class="cursive">A</span>bout Me
                     </a>
                 </li>
             </ul>
