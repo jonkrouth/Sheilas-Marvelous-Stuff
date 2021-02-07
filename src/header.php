@@ -58,9 +58,14 @@
                         Gallery
                     </a>
                 </li>
-                <li>
+                <!-- <li>
                     <a href="calendar.php">
                         Calendar
+                    </a>
+                </li> -->
+                <li>
+                    <a href="orders.php">
+                        Orders
                     </a>
                 </li>
                 <li>
